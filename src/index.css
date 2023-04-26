@@ -5,8 +5,8 @@
 }
 
 body {
-  font-family: "Press Start 2p", cursive;
-  background: rgb(2, 162, 152);
+  font-family: "Times New Roman", Times, serif;
+  background: rgb(233, 210, 106);
   background: linear-gradient(
     90deg,
     rgb(25, 216, 204) 0%,
@@ -25,7 +25,7 @@ h6 {
 }
 
 button {
-  font-family: "Press Start 2p", cursive;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 0.8rem;
   border: 3px solid black;
   padding: 0.5rem 1rem;
